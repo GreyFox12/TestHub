@@ -2,8 +2,4 @@ asdaawdwadawad
 zxczscasdad
 dsadwafgggrg
 dsadawdawd
-<<<<<<< HEAD
 azczvvcvvda
-=======
-fdgdfgdfgdfh
->>>>>>> parent of 9f05286... Update asdf.txt
